@@ -4,7 +4,7 @@
 # **Task 1: Understanding Python and Git**
 
 ## **Task 1.1: FIFA 22 Data Processing**
-**Dataset:** [FIFA 22 Complete Player Dataset](https://www.kaggle.com/datasets/stefanoleone992/fifa-22-complete-player-dataset?select=players_22.csv)  
+**Dataset:** [FIFA 22 Player Dataset](fifa22.csv)  
 
 ### **Steps to Perform:**
 - 🔹 **Remove** the `Long Name` column.
@@ -30,8 +30,7 @@ A manager needs a **good player within a budget**.
   - Takes **player position** and **annual budget cap** as inputs.
   - Returns **names, potential, and value** of players who fit.
   - Sorts them by **overall rating**.
-- 🔹 **Bonus**:  
-  - Use **Streamlit** to display the first **25 players**.
+
 
 ---
 
